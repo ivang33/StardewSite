@@ -1,0 +1,112 @@
+[
+  {
+    "id":0,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/8/87/Caroline.png",
+    "description": "Сaroline"
+  },
+  {
+    "id":1,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/3/31/Clint.png",
+    "description": "Clint"
+  },
+  {
+    "id":2,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/f/f9/Demetrius.png",
+    "description": "Demetrius"
+  },
+  {
+    "id":3,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/e/ed/Dwarf.png",
+    "description": "Dwarf"
+  },
+  {
+    "id":4,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/8/8e/Evelyn.png",
+    "description": "Evelyn"
+  },
+  {
+    "id":5,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/7/78/George.png",
+    "description": "George"
+  },
+  {
+    "id":5,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/5/52/Gus.png",
+    "description": "Gus"
+  },
+  {
+    "id":6,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/5/55/Jas.png",
+    "description": "Jas"
+  },
+  {
+    "id":7,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/4/41/Jodi.png",
+    "description": "Jodi"
+  },
+  {
+    "id":8,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/9/99/Kent.png",
+    "description": "Kent"
+  },
+  {
+    "id":9,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/7/71/Krobus.png",
+    "description": "Krobus"
+  },
+  {
+    "id":10,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/1/1d/Leo.png",
+    "description": "Leo"
+  },
+  {
+    "id":11,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/2/2b/Lewis.png",
+    "description": "Lewis"
+  },
+  {
+    "id":12,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/3/31/Linus.png",
+    "description": "Linus"
+  },
+  {
+    "id":13,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/5/52/Marnie.png",
+    "description": "Marnie"
+  },
+  {
+    "id":14,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/d/da/Pam.png",
+    "description": "Pam"
+  },
+  {
+    "id":14,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/7/7e/Pierre.png",
+    "description": "Pierre"
+  },
+  {
+    "id":15,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/1/1b/Robin.png",
+    "description": "Robin"
+  },
+  {
+    "id":16,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/4/4e/Sandy.png",
+    "description": "Sandy"
+  },
+  {
+    "id":17,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/f/f1/Vincent.png",
+    "description": "Vincent"
+  },
+  {
+    "id":18,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/8/82/Willy.png",
+    "description": "Willy"
+  },
+  {
+    "id":19,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/c/c7/Wizard.png",
+    "description": "Wizard"
+  }
+]

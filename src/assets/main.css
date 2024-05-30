@@ -1,0 +1,12 @@
+@import './bootstrap.min.css';
+* {
+  margin: 0;
+  padding: 0;
+  max-width: 1900px;
+}
+@font-face {
+  font-family: 'Stardew_Valley';
+  src: url('src/assets/fonts/Stardew_Valley.ttf') format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}

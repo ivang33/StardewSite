@@ -1,0 +1,62 @@
+[
+  {
+    "id":0,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/0/04/Alex.png",
+    "description": "Alex"
+  },
+  {
+    "id":1,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/b/bd/Elliott.png",
+    "description": "Elliot"
+  },
+  {
+    "id":2,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/9/95/Harvey.png",
+    "description": "Harvey"
+  },
+  {
+    "id":3,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/9/94/Sam.png",
+    "description": "Sam"
+  },
+  {
+    "id":4,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/a/a8/Sebastian.png",
+    "description": "Sebastian"
+  },
+  {
+    "id":5,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/8/8b/Shane.png",
+    "description": "Shane"
+  },
+  {
+    "id":6,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/8/88/Abigail.png",
+    "description": "Abigail"
+  },
+  {
+    "id":7,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/2/28/Emily.png",
+    "description": "Emily"
+  },
+  {
+    "id":8,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/1/1b/Haley.png",
+    "description": "Haley"
+  },
+  {
+    "id":9,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/e/e6/Leah.png",
+    "description": "Leah"
+  },
+  {
+    "id":10,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/f/f8/Maru.png",
+    "description": "Maru"
+  },
+  {
+    "id":11,
+    "ref_image":"https://stardewvalleywiki.com/mediawiki/images/a/ab/Penny.png",
+    "description": "Penny"
+  }
+]
